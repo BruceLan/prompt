@@ -1,6 +1,6 @@
 # Data框架
 
-- 官方: SwiftData
+- 官方 : 满足当前最低iOS版本要求
 
 - Realm
 https://github.com/realm/realm-swift
